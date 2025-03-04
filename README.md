@@ -29,7 +29,7 @@ c) Acceptance rate of drivers who go to bars more than once a month, had passeng
 Looking at the above, it was inferred than drivers who are aged 25+, who go to bars 3 or more times and who do not have a kid have a very high acceptance rate (78% as calculated)
 Investigating Coffee House Coupons
 
-b) Coffee House Coupons
+b) Coffee House Coupons:
 3996 Coffee House coupons were provided and 49.92% was accepted.
 Tried  studying the influence of following factors in Coffee House coupon acceptance behavior:
 Frequency of visit to coffee house in a month, time at which the coupon was given and Age.
